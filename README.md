@@ -4,7 +4,7 @@
 
 ![Dashboard-Builder Clip](https://drive.google.com/uc?export=view&id=1dk_7bPZNT78RXJwPt_FjkPvyX9BjkoF8)
 
-[Dashboard-Builder here](https://drive.google.com/file/d/1dk_7bPZNT78RXJwPt_FjkPvyX9BjkoF8/view?usp=sharing) if the video doesn't load.
+Click [here](https://drive.google.com/file/d/1dk_7bPZNT78RXJwPt_FjkPvyX9BjkoF8/view?usp=sharing) if the video doesn't load.
 
 The vast majority of data sources used in urban planning are, in one way or another, georeferenced.
 Many open GIS (geographic information system) standards, crucial for working and processing this data, are defined by the Open Geospatial Consortium (OGC).
