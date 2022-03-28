@@ -1,8 +1,6 @@
 # Dashboard-Builder
 
-
-
-![Dashboard-Builder Clip](https://drive.google.com/uc?export=view&id=1dk_7bPZNT78RXJwPt_FjkPvyX9BjkoF8)
+https://user-images.githubusercontent.com/36763878/160370084-2e69d1bf-b59d-46e7-928c-f2d8204fe385.mp4
 
 Click [here](https://drive.google.com/file/d/1dk_7bPZNT78RXJwPt_FjkPvyX9BjkoF8/view?usp=sharing) if the video doesn't load.
 
@@ -16,6 +14,7 @@ You can find all corresponding repositories and the code here:
 https://bitbucket.org/till-hcu/workspace/projects/DBP
 
 The subsequent figure is a sketch of the designed architecture:
+
 <img width="525" alt="architektur" src="https://user-images.githubusercontent.com/36763878/126600933-81b19c8c-2a86-4eed-a985-9a469cd32e7d.png">
 
 The complete study in German can be downloded here:
